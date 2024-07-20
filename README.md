@@ -1,4 +1,4 @@
-# Exploratory data analysis (EDA) of IPL Dataset
+# Exploratory Data Analysis (EDA) of IPL Dataset
 
 
 Import necessary libraries
