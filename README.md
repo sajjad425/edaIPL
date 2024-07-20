@@ -561,7 +561,3 @@ Most Successful Team: Mumbai Indians
 Most Successful Batsman: V Kohli
 
 ```
-
-```python
-
-```
