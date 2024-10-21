@@ -22,7 +22,7 @@ The IPL matches dataset provides a summary of the details for each match played 
 - **id:** Unique identifier for each match.
 - **season:** The season/year of the IPL.
 - **city:** The city where the match was played.
-- **date:** The date when the match took place.
+- **date:** The date when the match took place
 - **team1:** The first team participating in the match.
 - **team2:** The second team participating in the match.
 - **toss_winner:** The team that won the toss.
